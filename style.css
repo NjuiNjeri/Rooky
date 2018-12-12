@@ -1,4 +1,9 @@
+body
+#Container{
+	background-color: white;
+}
 #header{
 	background-color:#8B008B;
 	color: white;
 }
+
