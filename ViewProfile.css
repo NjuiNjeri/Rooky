@@ -1,0 +1,33 @@
+
+header{
+	background: purple;
+	margin: 20px;
+	padding: 10px;
+}
+body{
+	background-size: contain;
+	background-position: center;
+	font-family: sans-serif;
+	border: 50%;
+	align-content: center;
+	background: whitesmoke
+	
+}
+
+h4{
+	background: navy;
+	margin: 20px;
+	padding: 0 0 10px;
+	text-align: center;
+	color: white;
+}
+.content{
+	background: white;
+	margin: 0px;
+	padding: 0 0 20px;
+	text-align: left;
+}
+.content nav{
+	text-align: center;
+	background: yellow;
+}

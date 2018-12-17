@@ -1,0 +1,16 @@
+header{
+    background: tomato;
+    margin: 0;
+    padding: -10px;
+    border: 0px;
+    text-align: justify;
+    border-block-start-color: blue;
+}
+body{
+        background: white;
+        margin: 0px;
+        padding: 10px;
+        border: 10px;
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif
+}
